@@ -412,6 +412,7 @@ header .navbar ul li a:hover{
 
     html{
         font-size: 50%;
+        margin: auto;
     }
  
  }
@@ -420,26 +421,41 @@ header .navbar ul li a:hover{
 
     header{
         width: 100vw;
+        margin: auto;
     }
 
     .heading{
-        margin:0 3rem;
+        margin: auto;
+        text-align: center;
+        width: 100vw;
+        font-size: 50%;
+    }
+    .mode{
+        float: left;
+        font-size: 15px;
+        margin-left: 10px;
+    }
+    .home{
+        margin: auto;
+        text-align: center;
+        width: 100vw;
+        font-size: 50%;
     }
 
     .about .row .counter .box{
-        width: 100%;
+        width: 100vw;
     }
  
     .education .box-container .box{
-        width:100%;
+        width:100vw;
     }
 
     .portfolio .box-container .box{
-        width:100%;
+        width:100vw;
     }
 
     .contact .row form{
-        margin:3rem 0;
+        margin:3px 0;
     }
 
  }
