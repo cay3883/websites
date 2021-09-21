@@ -401,6 +401,17 @@ header .navbar ul li a:hover{
    header.toggle{
     left:0%;
    }
+    .mode{
+        float: left;
+        font-size: 15px;
+        margin-left: 10px;
+    }
+    .home{
+        margin: auto;
+        text-align: center;
+        width: 100vw;
+        font-size: 50%;
+    }
 
    body{
        padding:0;
@@ -413,6 +424,17 @@ header .navbar ul li a:hover{
     html{
         font-size: 50%;
         margin: auto;
+    }
+    .mode{
+        float: left;
+        font-size: 15px;
+        margin-left: 10px;
+    }
+    .home{
+        margin: auto;
+        text-align: center;
+        width: 100vw;
+        font-size: 50%;
     }
  
  }
